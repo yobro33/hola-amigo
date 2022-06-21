@@ -1,2 +1,2 @@
-# hola-amigo
+# Hola
 ¡Cuatro Amigos!
